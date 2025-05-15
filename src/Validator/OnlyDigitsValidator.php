@@ -1,6 +1,6 @@
 <?php
 
-namespace Validators;
+namespace Merkis88\Validator\Validator;
 
 use Validator\AbstractValidator;
 
