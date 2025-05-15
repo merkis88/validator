@@ -1,6 +1,6 @@
 <?php
 
-namespace Validators;
+namespace Validator;
 
 abstract class AbstractValidator
 {
