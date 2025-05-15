@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Validators\\": "src/Validator/"
+      "Validator\\": "src/Validator/"
     }
   },
   "require": {
