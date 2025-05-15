@@ -1,0 +1,20 @@
+{
+  "name": "merkis88/validator",
+  "description": "Custom validator",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "merkis88",
+      "email": "axuenno88@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Validators\\": "src/Validators/"
+    }
+  },
+  "require": {
+    "php": "^7.4 || ^8.0"
+  }
+}
